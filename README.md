@@ -1,2 +1,2 @@
 # example
-* `github.com/dgrijalva/jwt-go/v4`
+* `github.com/dgrijalva/jwt-go`
